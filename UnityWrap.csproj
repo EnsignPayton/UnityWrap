@@ -6,14 +6,14 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Unity API Wrapper</Description>
     <RepositoryUrl>https://github.com/EnsignPayton/UnityWrap</RepositoryUrl>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>DragonStallion</Authors>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="UnityEngine">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.3.0a6\Editor\Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.3.0a7\Editor\Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
 
