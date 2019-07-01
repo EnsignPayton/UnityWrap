@@ -6,7 +6,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Unity API Wrapper</Description>
     <RepositoryUrl>https://github.com/EnsignPayton/UnityWrap</RepositoryUrl>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <Authors>DragonStallion</Authors>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
@@ -22,6 +22,8 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
+    <None Remove=".gitignore" />
+    <None Remove=".gitattributes" />
   </ItemGroup>
 
 </Project>
