@@ -6,7 +6,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Unity API Wrapper</Description>
     <RepositoryUrl>https://github.com/EnsignPayton/UnityWrap</RepositoryUrl>
-    <Version>0.1.2</Version>
+    <Version>0.1.3</Version>
     <Authors>DragonStallion</Authors>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
